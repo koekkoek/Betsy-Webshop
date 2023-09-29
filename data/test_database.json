@@ -1,0 +1,129 @@
+{
+    "users":
+    [
+        {
+            "username": "kees",
+            "street": "Dorpweg",
+            "housenumber": "109",
+            "postal": "3018IX",
+            "city": "Amsterdam",
+            "card": "5018-5020-5038-6304"
+        },
+        {
+            "username": "jan",
+            "street": "Hendrikslaan",
+            "housenumber": "20",
+            "postal": "5987EF",
+            "city": "Groningen",
+            "card": "4136-8379-3622-6392"
+        },
+        {
+            "username": "pieter",
+            "street": "fonteinenstraat",
+            "housenumber": "98",
+            "postal": "3892EF",
+            "city": "Utrecht",
+            "card": "4714-5738-4132-7623"
+        },
+        {
+            "username": "fien",
+            "street": "drentestraat",
+            "housenumber": "8",
+            "postal": "9365OB",
+            "city": "Zwolle",
+            "card": "4832-4178-6744-8732"
+        },
+        {
+            "username": "feline",
+            "street": "willemspassage",
+            "housenumber": "168",
+            "postal": "8692NW",
+            "city": "Limburg",
+            "card": "4669-4057-9455-2336"
+        },
+        {
+            "username": "gerrit",
+            "street": "kievitslaan",
+            "housenumber": "465",
+            "postal": "9483OA",
+            "city": "Leiden",
+            "card": "4379-7075-2948-0209"
+        },
+        {
+            "username": "marieke",
+            "street": "hendrik pieterkade",
+            "housenumber": "66",
+            "postal": "8934LA",
+            "city": "Rotterdam",
+            "card": "4959-0632-7617-8309"
+        }
+    ],
+    "products":
+    [
+        {
+            "name": "Postcard",
+            "seller": "marieke",
+            "description": "Some cards to send your best wishes to someone",
+            "price": "2.5",
+            "quantity": "100",
+            "tags": ["Postcards", "Home"]
+        },
+        {
+            "name": "SanDisk Extreme Pro",
+            "seller": "marieke",
+            "description": "MicroSDXC UHS-I U3 V30 64GB + Adapter",
+            "price": "15",
+            "quantity": "20",
+            "tags": ["Computer Accessories", "Electronics"]
+        },
+        {
+            "name": "Philips 3000 Air Fryer",
+            "seller": "marieke",
+            "description": "Bring home the Airfryer so you can have 100% taste satisfaction with crispy on the outside and tender on the inside",
+            "price": "79.95",
+            "quantity": "8",
+            "tags": ["Electronics", "Computer Accessories", "Kitchen", "Food"]
+        },
+        {
+            "name": "iPhone 15 Pro",
+            "seller": "gerrit",
+            "description": "iPhone 15 Pro with boost infinite plan",
+            "price": "1500",
+            "quantity": "20",
+            "tags": ["Electronics", "Mobile"]
+        },
+        {
+            "name": "Ugg shoes",
+            "seller": "gerrit",
+            "description": "Koolaburra by UGG men's graisen slipper",
+            "price": "65",
+            "quantity": "250",
+            "tags": ["Shoes"]
+        },
+        {
+            "name": "Snickers",
+            "seller": "gerrit",
+            "description": "A lot of candybars in a package",
+            "price": "3",
+            "quantity": "1000",
+            "tags": ["Food", "Kitchen"]
+        },
+        {
+            "name": "Play-Doh",
+            "seller": "feline",
+            "description": "Play-Doh modeling compound 10-pack case of colors",
+            "price": "7.95",
+            "quantity": "50",
+            "tags": ["Home", "Toys"]
+        },
+        {
+            "name": "UNO Card Game",
+            "seller": "feline",
+            "description": "Mattel Games UNO Card Game for Family Night, Travel Game & Gift for Kids in a Collectible Storage Tin",
+            "price": "10.99",
+            "quantity": "75",
+            "tags": ["Card games", "Toys"]
+        }
+    ],
+    "tags": ["Card games", "Computer Accessories", "Mobile", "Food", "Toys", "Shoes", "Electronics", "Kitchen", "Postcards", "Home"]
+}
